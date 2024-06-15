@@ -1,3 +1,4 @@
+![Chess Game Screenshot](/imagenes/chessfight.jpeg)
 # Chess Game
 
 ## Description

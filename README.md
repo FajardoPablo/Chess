@@ -2,7 +2,7 @@
 
 ## Description
 A chess game developed in Java that allows users to play against each other.
-##Collaborators:
+## Collaborators:
 - [Ismael EL Younsi](https://github.com/IsmaelYM)
 - [Eduardo Quiroga](https://github.com/EduardoQG)
 ## Features
